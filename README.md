@@ -41,5 +41,3 @@ Testing and Simulation Mindset: The way you built Scribe to simulate battle scen
 Creative and Collaborative Spirit: Scribe shows that you understand the value of enhancing user experiences—in this case, for your friends in D&D. This demonstrates creativity, attention to user needs, and the ability to collaborate and iterate on a project, making you a good fit for team dynamics that value end-user engagement and continuous improvement.
 
 Commitment to Continuous Learning and Adaptation: Taking on a large-scale project like Scribe on your own, particularly in areas like web scraping and combat simulation, shows that you’re proactive in learning and applying new skills. This adaptability and eagerness to expand your toolkit would make you a versatile and growth-oriented team member.
-
-In summary, your work on Scribe shows that you have a unique blend of technical skills, problem-solving abilities, and a user-focused mindset, all of which are highly valuable in any Python development team. You’d bring not only proficiency but also innovation, adaptability, and a collaborative spirit to any development environment.
